@@ -1,5 +1,6 @@
 <p>
-	<strong> Here </strong> <em> is an HTML </em> 
+	<strong> Here </strong> 
+	<em> is an HTML </em> 
 </p>
 <p>
 	<blockquote>
